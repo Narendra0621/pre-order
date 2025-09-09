@@ -1,12 +1,38 @@
-# React + Vite
+# 🍽️ DineAhead  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DineAhead is a modern **restaurant pre-ordering platform** that allows users to browse menus, pre-order food, and enjoy seamless dining experiences. Restaurants can manage their digital menus, track pre-orders, and provide a faster, smarter service to customers.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
 
-## Expanding the ESLint configuration
+### For Customers  
+- 🛒 **Browse Menus** – Explore restaurant menus with high-quality images and details.  
+- ⏰ **Pre-Order Food** – Order ahead to skip waiting times.  
+- 💳 **Multiple Payment Options** – Secure online payments and cash on delivery.  
+- ⭐ **Reviews & Ratings** – Rate restaurants and meals.  
+- 🔔 **Live Order Tracking** – Get real-time updates on your order status.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### For Restaurants  
+- 📋 **Digital Menu Management** – Add, update, and showcase dishes.  
+- 📦 **Order Management System** – Track and fulfill pre-orders easily.  
+- 📊 **Analytics Dashboard** – Gain insights into sales and customer preferences.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### Frontend  
+- **React + Vite** ⚡ – Fast and modern UI development  
+- **TailwindCSS** 🎨 – Sleek, responsive styling  
+- **Axios** 🌐 – API integration  
+
+### Backend  
+- **Node.js + Express** 🚀 – Scalable REST API  
+- **MongoDB** 🍃 – Database for restaurants, menus, and orders  
+- **JWT Authentication** 🔐 – Secure login and authorization  
+
+---
+
+## 📂 Project Structure  
+
