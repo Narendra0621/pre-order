@@ -30,9 +30,5 @@ DineAhead is a modern **restaurant pre-ordering platform** that allows users to 
 ### Backend  
 - **Node.js + Express** 🚀 – Scalable REST API  
 - **MongoDB** 🍃 – Database for restaurants, menus, and orders  
-- **JWT Authentication** 🔐 – Secure login and authorization  
-
----
-
-## 📂 Project Structure  
+- **JWT Authentication** 🔐 – Secure login and authorization
 
