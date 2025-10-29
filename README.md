@@ -19,7 +19,8 @@ DineAhead is a modern **restaurant pre-ordering platform** that allows users to 
 - 📊 **Analytics Dashboard** – Gain insights into sales and customer preferences.  
 
 ---
-
+- **Live Link** 🌐 – https://dineahead.netlify.app/ 
+---
 ## 🛠️ Tech Stack  
 
 ### Frontend  
